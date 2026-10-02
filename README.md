@@ -7,7 +7,7 @@
 
 A complete, curated, and standardized **Pegasus DL** package catalog containing over **860+ PS4 titles**. 
 
-Originally indexed for legacy FPKGi, this collection has been normalized, converted, and restructured to seamlessly integrate into **[Pegasus DL](https://github.com/pegasus-ps5/pegasus-dl)** for jailbroken PlayStation 5 and PlayStation 4 consoles.
+Originally indexed for legacy FPKGi, this collection has been converted, and restructured to integrate into **[Pegasus DL](https://github.com/pegasus-ps5/pegasus-dl)** for jailbroken PlayStation 5.
 
 ---
 
@@ -59,7 +59,7 @@ You can load this catalog onto your jailbroken console in seconds using the Pega
 
 - **[Maelly Pooh](https://archive.org/details/@maelly_pooh)** (*Software Capsules*) — Original archival, curation, and hosting of the [PS4 FPKG Collection [English] [FPKGi]](https://archive.org/details/ps4-fpkg-collection-english-fpkgi) on Internet Archive.
 - **[Pegasus PS5 Team](https://github.com/pegasus-ps5/pegasus-dl)** — Creation of the Pegasus DL downloader payload and package manager.
-- **[Dipper Hack](https://github.com)** — Pegasus DL format conversion, metadata parser development, provider mapping, and repository maintainer.
+- **[M3hmetSa1t](https://github.com/M3hmetSa1t)** — Pegasus DL format conversion, metadata parser development, provider mapping, and repository maintainer.
 
 ---
 
