@@ -23,35 +23,54 @@ Originally indexed for legacy FPKGi, this collection has been converted, and res
 
 ## 🚀 How to Add to Pegasus DL
 
-You can load this catalog onto your jailbroken console in seconds using the Pegasus DL web dashboard.
+You can add this catalog to your jailbroken console in seconds using any of the methods below.
 
-### Option 1: Add by URL (Direct Feed)
+---
 
-1. Connect to your Pegasus DL web interface from your PC or mobile browser:
+### Method 1: Add by GitHub Pages URL (Recommended)
+
+GitHub Pages provides a fast, clean CDN link directly to the catalog file:
+
+1. Open your PC or mobile browser and connect to your Pegasus DL web interface:
    ```text
    http://<YOUR_PS5_IP>:6970
    ```
-2. Navigate to **Catalogs / Sources** > **Add Source by URL**.
-3. Paste the raw GitHub URL of this catalog:
+2. Navigate to **Sources** > **Add Source by URL**.
+3. Paste the following URL:
    ```text
-   https://raw.githubusercontent.com/USERNAME/pegasus-ps4-collection/main/catalog.json
+   https://m3hmetsa1t.github.io/pegasus-ps4-collection-catalog/pegasus-ps4-catalog.json
    ```
-   *(Or your GitHub Pages URL: `https://USERNAME.github.io/pegasus-ps4-collection/catalog.json`)*
-4. Click **Add & Refresh**. The entire library of 860+ games will populate with box art and direct download triggers.
+4. Click **Add & Refresh**. The entire library of 860+ games will populate automatically.
 
-### Option 2: Upload Catalog File via Web Interface (PC Recommended)
+---
 
-> ⚠️ **Note:** The PS5 built-in browser does not have a native OS file picker, so clicking "Choose File" directly on the console may not open a file dialog. It is strongly recommended to perform this step from a **PC or phone** connected to the same local network.
+### Method 2: Add by GitHub Raw URL
 
-1. Download [`catalog.json`](./catalog.json) to your computer or phone.
-2. Open your web browser on your PC/phone and go to:
+If you prefer using the direct GitHub Raw feed:
+
+1. Open your Pegasus DL web interface (`http://<YOUR_PS5_IP>:6970`).
+2. Go to **Sources** > **Add Source by URL**.
+3. Paste the raw GitHub URL:
+   ```text
+   https://raw.githubusercontent.com/M3hmetSa1t/pegasus-ps4-collection-catalog/main/pegasus-ps4-catalog.json
+   ```
+4. Click **Add & Refresh**.
+
+---
+
+### Method 3: Upload Catalog File via Web Interface (PC / Phone)
+
+> ⚠️ **Note:** The PS5 built-in browser lacks a native OS file picker, meaning "Choose File" will not open a file dialog on the console. Always perform this step from a **PC or smartphone** on the same Wi-Fi network.
+
+1. Download [`pegasus-ps4-collection-catalog.json`](./pegasus-ps4-catalog.json) to your computer or phone.
+2. Open your web browser and navigate to:
    ```text
    http://<YOUR_PS5_IP>:6970
    ```
-3. Navigate to the **Sources** tab.
+3. Go to the **Sources** tab.
 4. Under the **Upload JSON Catalog** section, click **Choose File** (or *Browse*).
-5. Select the downloaded `catalog.json` file from your device and confirm the upload.
-6. The catalog will be parsed and loaded instantly into Pegasus DL on your console.
+5. Select the downloaded JSON file and confirm the upload.
+6. Pegasus DL will immediately parse and load all 860+ titles onto your console.
 
 ---
 
