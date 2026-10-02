@@ -15,7 +15,7 @@ Originally indexed for legacy FPKGi, this collection has been converted, and res
 
 - **Native Pegasus DL Format:** Converted from raw dictionary key-value mappings into the modern Pegasus DL catalog format (`packages`, `downloadLinks`, `titleId`, `posterUrl`, `description`).
 - **Complete Title Set:** 866 English PS4 Fake Packages with patches and DLCs merged into unified builds.
-- **Provider Standardization:** Links mapped with clean region and provider identifiers (`Region Base (vVersion) - Direct`) to eliminate UI recognition errors.
+- **Provider Standardization:** Links mapped with clean region and provider identifiers (`Region Base (vVersion) - Direct`).
 - **Human-Readable Sizing:** Package sizes formatted into gigabytes (GB) with firmware compatibility requirements (`Min FW: 9.00+`).
 - **Zero-Setup Hosting:** Ready to be added directly to your console via GitHub Raw or GitHub Pages.
 
