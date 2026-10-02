@@ -77,7 +77,7 @@ If you prefer using the direct GitHub Raw feed:
 ## 👥 Credits & Contributors
 
 - **[Maelly Pooh](https://archive.org/details/@maelly_pooh)** (*Software Capsules*) — Original archival, curation, and hosting of the [PS4 FPKG Collection [English] [FPKGi]](https://archive.org/details/ps4-fpkg-collection-english-fpkgi) on Internet Archive.
-- **[Pegasus PS5 Team](https://github.com/pegasus-ps5/pegasus-dl)** — Creation of the Pegasus DL downloader payload and package manager.
+- **[Pegasus DL Team](https://github.com/pegasus-ps5/pegasus-dl)** — Creation of the Pegasus DL downloader payload and package manager.
 - **[M3hmetSa1t](https://github.com/M3hmetSa1t)** — Pegasus DL format conversion, metadata parser development, provider mapping, and repository maintainer.
 
 ---
