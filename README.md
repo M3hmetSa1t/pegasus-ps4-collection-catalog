@@ -62,7 +62,7 @@ If you prefer using the direct GitHub Raw feed:
 
 > ⚠️ **Note:** The PS5 built-in browser lacks a native OS file picker, meaning "Choose File" will not open a file dialog on the console. Always perform this step from a **PC or smartphone** on the same Wi-Fi network.
 
-1. Download [`pegasus-ps4-collection-catalog.json`](./pegasus-ps4-catalog.json) to your computer or phone.
+1. Download [`pegasus-ps4-catalog.json`](./pegasus-ps4-catalog.json) to your computer or phone.
 2. Open your web browser and navigate to:
    ```text
    http://<YOUR_PS5_IP>:6970
